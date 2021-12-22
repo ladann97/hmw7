@@ -1,0 +1,72 @@
+body{
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+}
+.main{
+    width: 70%;
+    margin: 50px auto;
+    display: flex;
+    align-items: center;
+    color: white;
+
+}
+.profile img{
+    width: 160px;
+    border-radius: 50%;
+  
+}
+.helloPart{
+  margin-left: 50px;
+
+}
+.helloHand{
+    display: flex;
+    align-items: flex-start;
+}
+.helloHand img{
+    width: 70px;
+    margin-left: 70px;
+}
+hr{
+    background-color: rgb(179, 91, 91);
+    margin-top: 50px;
+}
+.main2{
+
+ width: 70%;
+    margin: 50px auto;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.title1{
+    color: white;
+    margin-left: 35%;
+    align-items: center;
+}
+.title{
+    color: white;
+    margin-left: 35%;
+    margin-top: 10%;
+
+}
+.div1 h5{
+    color: palevioletred;
+
+}
+.div2 h5{
+    color: pink;
+}
+.div3 h5{
+    color:plum
+}
+.div1 {
+    margin-right: 50px;
+}
+.div2{
+    margin-right: 50px;
+}
+.div3{
+    margin-right: 50px;
+}
